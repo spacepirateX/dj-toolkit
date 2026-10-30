@@ -39,11 +39,13 @@ MP3 named `Name - 128bpm.ext`, with the BPM tagged.
 Coming from the old command-line tool? **More** has *Import the old tool's .env* and *Import the old tool's
 searches*, so tracks you matched before aren't searched again.
 
-
 ## Tutorials
 
-Short guides with one recommendation each: folder structure, folders to rekordbox, rekordbox to USB, acapellas, and Spotify playlists. See the [free acapellas list](try-it-with.md) for vocal samples to try with the project. Disagree with one? Post a question or a challenge below it.
+Short guides with one recommendation each: folder structure, folders to rekordbox, rekordbox to USB, acapellas, and
+Spotify playlists. Disagree with one? Post a question or a challenge below it. You appear as *Anonymous DJ #xxxx*,
+and for now posts stay on your computer.
 
+No acapella to try it with? [Free acapellas you may download and use](try-it-with.md).
 
 ## Requests
 
