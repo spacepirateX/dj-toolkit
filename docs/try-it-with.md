@@ -1,7 +1,4 @@
 
-# Free acapellas to try
-
-These free vocal samples can be used to experiment with the project. Check the source page for the usage terms before using a sample.
 
 ## Free Vocals
 
