@@ -41,9 +41,11 @@ searches*, so tracks you matched before aren't searched again.
 
 ## Tutorials
 
-Short guides with one recommendation each: folder structure, folders to rekordbox, rekordbox to USB, acapellas, and
-Spotify playlists. Disagree with one? Post a question or a challenge below it. You appear as *Anonymous DJ #xxxx*,
-and for now posts stay on your computer.
+
+## Tutorials
+
+Short guides with one recommendation each: folder structure, folders to rekordbox, rekordbox to USB, acapellas, and Spotify playlists. See the [free acapellas list](try-it-with.md) for vocal samples to try with the project. Disagree with one? Post a question or a challenge below it.
+
 
 ## Requests
 
