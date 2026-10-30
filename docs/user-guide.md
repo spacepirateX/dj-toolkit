@@ -39,8 +39,6 @@ MP3 named `Name - 128bpm.ext`, with the BPM tagged.
 Coming from the old command-line tool? **More** has *Import the old tool's .env* and *Import the old tool's
 searches*, so tracks you matched before aren't searched again.
 
-## Tutorials
-
 
 ## Tutorials
 
