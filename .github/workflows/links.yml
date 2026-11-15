@@ -4,6 +4,9 @@
 name: Weekly link check
 
 on:
+  push:
+    branches:
+      - fix/close-broken-links-issue
   schedule:
     - cron: "17 5 * * 1"
   workflow_dispatch:
